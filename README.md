@@ -1,4 +1,4 @@
-# bridge_coding
+# bridge coding
 Coding scripts and resources for the Temple summer BRIDGE program
 
 The goal of this workshop is to get familiar with some of the basics of coding in R (and hopefully one day Python). In this repository, there are copies of the scripts that we will be using during the workshop, and the dataset that will serve as the basis for our work. 
